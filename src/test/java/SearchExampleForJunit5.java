@@ -19,7 +19,5 @@ public class SearchExampleForJunit5 {
         $(byText("Soft assertions")).click();
         //Проверьте что внутри есть пример кода для JUnit5
         $("[id=wiki-body]").shouldHave(text("Using JUnit5 extend test class:"));
-        
-        Selenide.sleep(5000);
     }
 }
