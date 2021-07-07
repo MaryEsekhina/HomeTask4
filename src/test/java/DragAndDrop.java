@@ -46,6 +46,6 @@ public class DragAndDrop {
 
         // Проверить, что прямоугольники действительно поменялись
         $("#column-a").shouldHave(text("B"));
-        $("#column-b").shouldHave(text("A"));
+        $("#column-b").shouldHave(text("A"));123
     }
 }

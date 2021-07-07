@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92102c1a-e53d-47d9-87f9-8269b845da9f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="92102c1a-e53d-47d9-87f9-8269b845da9f" name="Default Changelist" comment="New test for DG">
       <change beforePath="$PROJECT_DIR$/src/test/java/DragAndDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DragAndDrop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,6 +171,14 @@
       <option name="presentableId" value="Default" />
       <updated>1623958150294</updated>
     </task>
+    <task id="LOCAL-00001" summary="New test for DG">
+      <created>1625679966872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625679966872</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New test for DG" />
+    <option name="LAST_COMMIT_MESSAGE" value="New test for DG" />
   </component>
 </project>
